@@ -25,9 +25,12 @@ And thats it!
 Also, if you don't want to run extra around and what this to 100% wife approved, get a solar power bank and attach that with ESP8266-12E.
 
 Thanks to :
+
 kakopappa
+
 https://github.com/kakopappa/arduino-esp8266-alexa-wemo-switch
 
 C_Hobbs
+
 https://community.smartthings.com/t/release-absolute-simplest-esp8266-smart-blinds-no-mqtt-rest-bridge-or-broker-just-your-board-and-your-hub/48814
 
