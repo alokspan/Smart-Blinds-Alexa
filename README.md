@@ -9,7 +9,7 @@ https://www.amazon.com/gp/product/B015H5AVZG/ref=oh_aui_detailpage_o00_s00?ie=UT
 ESP-12E - I choose this with development board (NodeMCU v3) that has a 5v output as well. So no need for any extra power supply
 https://www.amazon.com/gp/product/B0741QFVJD/ref=oh_aui_detailpage_o00_s01?ie=UTF8&psc=1
 
-And thats it! 
+And that's it! 
 
 1- Connect the ESP chip with laptop
 
@@ -22,7 +22,7 @@ And thats it!
 5 - Enjoy your Smart Blinds ... ask Alexa to open and close :)
 
 
-Also, if you don't want to run extra around and what this to 100% wife approved, get a solar power bank and attach that with ESP8266-12E.
+Also, if you don't want to run extra wires around and wants this to be 100% wife approved, get a solar power bank and attach that with ESP8266-12E.
 
 Thanks to :
 
