@@ -12,9 +12,13 @@ https://www.amazon.com/gp/product/B0741QFVJD/ref=oh_aui_detailpage_o00_s01?ie=UT
 And thats it! 
 
 1- Connect the ESP chip with laptop
+
 2 - Flash it with attached program (If you need information on how to program you ESP8266-12E, here is a good link : http://www.instructables.com/id/Programming-the-ESP8266-12E-using-Arduino-software/)
+
 3 - Open Alexa app and search for Blinds under SmartThings (Or ask Alexa to search for devices)
+
 4 - Attach the servo with the blinds (This depends upon the kind of setup you want. There are some resources available, just google it.)
+
 5 - Enjoy your Smart Blinds ... ask Alexa to open and close :)
 
 
