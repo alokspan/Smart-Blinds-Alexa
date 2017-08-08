@@ -33,3 +33,6 @@ C_Hobbs
 https://community.smartthings.com/t/release-absolute-simplest-esp8266-smart-blinds-no-mqtt-rest-bridge-or-broker-just-your-board-and-your-hub/48814
 
 -----------------
+I will add a circuit diagram by end of this week ... 
+
+Thanks again to all help I received from Github and other online resources.
