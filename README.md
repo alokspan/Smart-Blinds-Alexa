@@ -3,7 +3,7 @@ Smart Blinds works with Alexa - Without any mqtt, rest, bridge, broker or HUB
 These smartblinds would not need any kind of SmartThings or hub. You can do this just by ESP8266 and a SG90 servo.
 
 List of Things:
-Servo Motor 9G
+Servo Motor 9G (You may want to get one with more power if you have large blinds)
 https://www.amazon.com/gp/product/B015H5AVZG/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1
 
 ESP-12E - I choose this with development board (NodeMCU v3) that has a 5v output as well. So no need for any extra power supply
